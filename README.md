@@ -130,3 +130,4 @@ the design was not so good as far as I had found, but it was. change the design 
 
 ### the clone modification to match my design of 2008  
 removed all junk headers pin, it is prone to bad contact and intermittent loose electrical connection thus weird ISP programming problem, soldering is always own preference, it is being proof since my 1st build prototype and working good so far till today, but not those clone.
+![ISP_upgrade_design_mod.JPG](ISP_upgrade_design_mod.JPG)  
