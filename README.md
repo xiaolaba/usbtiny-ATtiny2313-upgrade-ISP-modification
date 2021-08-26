@@ -123,3 +123,10 @@ avrdude -c usbtiny -p %mcu% -t
 pause
 :end
 ```
+
+### ISP header heritage
+the design was not so good as far as I had found, but it was. change the design a bit, easy for the job, no hardware build but bought some well cloned in the market. atmel-2521-avr-hardware-design-considerations_applicationnote_avr042.pdf, page 6 is describing the ISP header for avr8 MCU. SPI interface.  
+![avr8_ISP.JPG](avr8_ISP.JPG)  
+
+### the clone modification to match my design of 2008  
+removed all junk headers pin, it is prone to bad contact and intermittent loose electrical connection thus weird ISP programming problem, soldering is always own preference, it is being proof since my 1st build prototype and working good so far till today, but not those clone.
