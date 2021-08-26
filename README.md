@@ -3,6 +3,9 @@
 usbtiny clone and modify the 6pin ISP header for upgrade firmware  
 
 
+![ISP_upgrade_schematic.JPG](ISP_upgrade_schematic.JPG)  
+
+
 firmware clone, https://learn.adafruit.com/usbtinyisp/download  
 source code clone, https://dicks.home.xs4all.nl/avr/usbtiny/  
 
