@@ -134,3 +134,16 @@ the design was not so good as far as I had found, but it was. change the design 
 ### the clone modification to match my design of 2008  
 removed all junk headers pin, it is prone to bad contact and intermittent loose electrical connection thus weird ISP programming problem, soldering is always own preference, it is being proof since my 1st build prototype and working good so far till today, but not those clone.
 ![ISP_upgrade_design_mod.JPG](ISP_upgrade_design_mod.JPG)  
+
+### cut 5 traces for modifiaction
+![ISP_upgrade_design_cut_5_traces.JPG](ISP_upgrade_design_cut_5_traces.JPG)  
+
+this is original design circuit, copy from internet, 74HC125D is used as buffer
+![usbtinyisp2sch.png](usbtinyisp2sch.png)  
+
+
+
+### wiring 6 wires to build ISP header to burn Attiny2312
+![ISP_upgrade_design_6wiring_mod.JPG](ISP_upgrade_design_6wiring_mod.JPG)  
+
+
